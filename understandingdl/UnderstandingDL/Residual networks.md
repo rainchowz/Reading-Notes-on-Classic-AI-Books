@@ -11,7 +11,7 @@
 
 ### 2.1残差链接
 
-![Snipaste_2025-03-18_15-07-22](E:/github/UnderstandingDeepLearning/figure/Snipaste_2025-03-18_15-07-22.png)
+![Snipaste_2025-03-18_15-07-22](../figure/Snipaste_2025-03-18_15-07-22.png)
 
 ![Snipaste_2025-03-18_15-05-35](E:/github/UnderstandingDeepLearning/figure/Snipaste_2025-03-18_15-05-35.png)
 
