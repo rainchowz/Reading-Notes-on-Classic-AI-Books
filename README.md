@@ -1,5 +1,5 @@
 # Reading-Notes-on-Classic-AI-Books
-记录阅读一些ai相关书籍的知识点、想法与收获
+记录阅读一些ai相关书籍的知识点、想法与收获  
 目前阅读的书目：
 1. 《动手学深度学习》
 2. 《Understanding Deep Learning》
